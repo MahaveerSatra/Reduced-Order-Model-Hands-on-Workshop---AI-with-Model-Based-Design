@@ -1,0 +1,1 @@
+var modelInfo = {model:"BatteryModel_NSS_CodeGeneration"};var modelHierarchy=[{model:"BatteryModel_NSS_CodeGeneration",relativePath:"_internal.html",parent:"null"},];var AddCode = true;var ProtectedModel = false;

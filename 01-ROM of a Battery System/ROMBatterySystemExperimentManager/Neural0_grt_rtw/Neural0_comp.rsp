@@ -1,0 +1,6 @@
+﻿-I"C:\Mahaveer\Examples\AI with MBD_ROM_ Hands on Workshop\01-ROM of a Battery System\ROMBatterySystemExperimentManager"
+-I"C:\Mahaveer\Examples\AI with MBD_ROM_ Hands on Workshop\01-ROM of a Battery System\ROMBatterySystemExperimentManager\Neural0_grt_rtw"
+-I"C:\Program Files\MATLAB\R2024b\extern\include"
+-I"C:\Program Files\MATLAB\R2024b\simulink\include"
+-I"C:\Program Files\MATLAB\R2024b\rtw\c\src"
+-I"C:\Program Files\MATLAB\R2024b\rtw\c\src\ext_mode\common"

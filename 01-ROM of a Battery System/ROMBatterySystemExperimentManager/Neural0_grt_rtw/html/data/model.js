@@ -1,0 +1,1 @@
+var modelInfo = {model:"Neural0"};var modelHierarchy=[{model:"Neural0",relativePath:"_internal.html",parent:"null"},];var AddCode = true;var ProtectedModel = false;
