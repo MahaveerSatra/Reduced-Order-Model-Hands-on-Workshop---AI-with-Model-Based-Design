@@ -4,3 +4,4 @@
 /02a-ROM[[:space:]]of[[:space:]]a[[:space:]]PMSM[[:space:]]Motor/ROM_PMSM_ExperimentManager/ExperimentProject_LSTMParallel/trainingData1.mat filter=lfs diff=lfs merge=lfs -text
 /02a-ROM[[:space:]]of[[:space:]]a[[:space:]]PMSM[[:space:]]Motor/ROM_PMSM_ExperimentManager/ExperimentProject_LSTMParallel/Results/Experiment1_Result1_20250502T082133/Snapshot/trainingData1.mat filter=lfs diff=lfs merge=lfs -text
 /02a-ROM[[:space:]]of[[:space:]]a[[:space:]]PMSM[[:space:]]Motor/ROM_PMSM_ExperimentManager/ExperimentProject_NSS/trainingData1.mat filter=lfs diff=lfs merge=lfs -text
+/02a-ROM[[:space:]]of[[:space:]]a[[:space:]]PMSM[[:space:]]Motor/ROM_PMSM_ExperimentManager/ExperimentProject_NSS/Results/Experiment1_Result1_20250504T231909/Snapshot/trainingData1.mat filter=lfs diff=lfs merge=lfs -text
