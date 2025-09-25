@@ -5,3 +5,5 @@ High-fidelity models, such as those based on FEA (Finite Element Analysis), CFD 
 
 In today's hands-on workshop, you will learn how to create AI-based reduced order models using the new Simulink add-on for Reduced Order Modeling to replace high-fidelity models. 
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MahaveerSatra/Reduced-Order-Model-Hands-on-Workshop---AI-with-Model-Based-Design)
+
